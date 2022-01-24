@@ -3269,7 +3269,7 @@ ${teks}`, members_id, true)
 🔖 Versi OS : ${os_version}
 🔖 Merk HP : ${device_manufacturer}
 🔖 Versi HP : ${device_model}
-🔖 Browser : ${Zeeone.browserDescription}
+🔖 Browser : Mhycka,Linux, 
 🔖 Baterai : ${isBattre} %
 🔖 Charging : ${isCharge}
 `
