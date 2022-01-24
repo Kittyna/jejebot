@@ -3321,7 +3321,7 @@ break
 									Zeeone.sendMessage(`${ownerNumber}`, teks, text, {quoted: Ofc})
 									break
                                                 case 'gcjeje':
-									reply(`*https://chat.whatsapp.com/FD1er9IYN0i5jF0lq83mRm`)
+									reply(`*https://chat.whatsapp.com/FD1er9IYN0i5jF0lq83mRm*`)
 									break 
 						case 'nulis':
 									reply(`*Example*\n${prefix}nuliskiri\n${prefix}nuliskanan\n${prefix}foliokiri\n${prefix}foliokanan`)
