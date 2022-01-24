@@ -3285,6 +3285,12 @@ let qqppp = [{
                         "displayText": "SEWA"
                     },
                     "type": "RESPONSE"
+                },{
+                    "buttonId": `${prefix}gcjeje`,
+                    "buttonText": {
+                        "displayText": "GRUP OWNER"
+                    },
+                    "type": "RESPONSE" 
                 }]
                 sendButLocation(from, teks, `jeje™© | Allright Reserved.`, thumbnail, qqppp, {contextInfo: { mentionedJid: [nupe]}})
 				
@@ -3314,6 +3320,9 @@ break
 									teks = `─「 *APIKEY CEK* 」─\n\n➸ *Username :* ${anu.result.username}\n➸ *REQUEST :* ${anu.result.requests}\n➸ *Today :* ${anu.result.today}\n➸ *Akun Type :* ${anu.result.account_type}\n➸ *Expired :* ${anu.result.expired}`
 									Zeeone.sendMessage(`${ownerNumber}`, teks, text, {quoted: Ofc})
 									break
+                                                case 'gcjeje':
+									reply(`*https://chat.whatsapp.com/FD1er9IYN0i5jF0lq83mRm`)
+									break 
 						case 'nulis':
 									reply(`*Example*\n${prefix}nuliskiri\n${prefix}nuliskanan\n${prefix}foliokiri\n${prefix}foliokanan`)
 									break
